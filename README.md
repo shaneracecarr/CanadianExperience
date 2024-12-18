@@ -5,12 +5,17 @@ This project is an animation system built in C++ using wxWidgets, featuring a un
 ## Features
 
 The machine system includes:
-- Interactive crank mechanism
+- Crank mechanism
 - Automated box opening animation
 - Spring-loaded Sparty character with bounce physics
 - Pulley system with variable speeds
 - Cam-driven timing mechanisms
 - Belt-driven connections between components
+- Movable characters
+- Key frames and animation wiht tweening
+- Save and Loading of files
+
+  Run the program and load in the file movie.anim to see a short animated movie
 
 ## Prerequisites
 
